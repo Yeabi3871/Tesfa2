@@ -1,15 +1,15 @@
 /* Global Styles */
 :root {
-    --primary: #6a4c93;
-    --primary-light: #9d84c6;
-    --primary-dark: #4a3368;
-    --secondary: #f3e8ff;
-    --text-dark: #333333;
+    --primary: #8b5a2b;
+    --primary-light: #b78456;
+    --primary-dark: #5d3c1d;
+    --secondary: #f8f2e9;
+    --text-dark: #3c2f22;
     --text-light: #ffffff;
-    --background: #fcfaff;
+    --background: #fefaf5;
     --card-bg: #ffffff;
     --border-radius: 12px;
-    --box-shadow: 0 4px 20px rgba(106, 76, 147, 0.15);
+    --box-shadow: 0 4px 20px rgba(139, 90, 43, 0.15);
     --transition: all 0.3s ease;
 }
 
@@ -117,7 +117,7 @@ nav {
 
 .nav-links a:hover, .nav-links a.active {
     color: var(--primary);
-    background-color: rgba(157, 132, 198, 0.1);
+    background-color: rgba(183, 132, 86, 0.1);
 }
 
 .burger {
@@ -157,7 +157,7 @@ nav {
     font-weight: 500;
     margin-bottom: 1rem;
     font-size: 0.85rem;
-    box-shadow: 0 2px 10px rgba(106, 76, 147, 0.2);
+    box-shadow: 0 2px 10px rgba(139, 90, 43, 0.2);
 }
 
 .search-container {
@@ -352,7 +352,7 @@ nav {
 }
 
 .retreat-1 {
-    background: linear-gradient(135deg, #9d84c6, #6a4c93);
+    background: linear-gradient(135deg, #b78456, #8b5a2b);
 }
 
 .retreat-1::before {
@@ -377,7 +377,7 @@ nav {
 }
 
 .community-1 {
-    background: linear-gradient(135deg, #8f6db6, #4a3368);
+    background: linear-gradient(135deg, #a97f5a, #5d3c1d);
 }
 
 .community-1::before {
@@ -402,7 +402,7 @@ nav {
 }
 
 .workshop-2 {
-    background: linear-gradient(135deg, #7a5ca3, #3e2b57);
+    background: linear-gradient(135deg, #946b4a, #3c2f22);
 }
 
 .workshop-2::before {
@@ -427,7 +427,7 @@ nav {
 }
 
 .wellness-1 {
-    background: linear-gradient(135deg, #b29ddb, #6a4c93);
+    background: linear-gradient(135deg, #c5b9a8, #8b5a2b);
 }
 
 .wellness-1::before {
@@ -452,7 +452,7 @@ nav {
 }
 
 .seminar-1 {
-    background: linear-gradient(135deg, #614685, #4a3368);
+    background: linear-gradient(135deg, #7f654d, #5d3c1d);
 }
 
 .seminar-1::before {

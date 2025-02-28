@@ -86,7 +86,6 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     };
     
-    // Add the animations on load
     window.addEventListener('DOMContentLoaded', () => {
         // Add animation classes to CSS
         const style = document.createElement('style');
